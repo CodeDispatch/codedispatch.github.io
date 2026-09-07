@@ -11,9 +11,15 @@ export default defineConfig({
   cleanUrls: true,
 
   themeConfig: {
-    logo: '/logo.png',
+    logo: '/logo.PNG',
 
     nav: [
+      {
+        text: 'Changelogs',
+        items: [
+          { text: 'v0.0.1', link: 'https://github.com/CodeDispatch/codedispatch.github.io' }
+        ]
+      },
       {
         text: 'GitHub',
         link: 'https://github.com/codedispatch/codedispatch.github.io'
