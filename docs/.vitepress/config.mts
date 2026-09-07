@@ -29,7 +29,7 @@ export default defineConfig({
       {
         text: 'Changelogs',
         items: [
-          { text: 'v0.0.1', link: 'https://github.com/CodeDispatch/codedispatch.github.io' }
+          { text: 'v0.0.1', link: 'https://github.com/CodeDispatch/codedispatch.github.io/releases/tag/v0.0.1' }
         ]
       },
       {
@@ -72,7 +72,7 @@ export default defineConfig({
 
     footer: {
       message: 'CodeDispatch is open-source.',
-      copyright: 'Copyright © 2026 CodeDispatch'
+      copyright: 'Licensed under Apache-2.0 © 2026-present CodeDispatch'
     }
   }
 })
