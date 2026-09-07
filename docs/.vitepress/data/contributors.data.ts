@@ -24,8 +24,7 @@ export interface Data {
 
 // Map GitHub logins/account names to special titles.
 const title_overrides = new Map();
-title_overrides.set("FichteFoll", "Maintainer");
-title_overrides.set("TerminalFi", "Maintainer");
+title_overrides.set("intensed-dev", "Admin/Author");
 
 declare const data: Data;
 export { data }
@@ -37,7 +36,7 @@ export default defineLoader({
     const contributors: Contributor[] = [];
 
     while (hasNextPage) {
-      const uri = `https://api.github.com/repos/sublimetext-io/docs.sublimetext.io/contributors?per_page=100&page=${page}`;
+      const uri = `https://api.github.com/repos/codedispatch/codedispatch.github.io/contributors?per_page=100&page=${page}`;
 
       const response = await fetch(uri);
 
