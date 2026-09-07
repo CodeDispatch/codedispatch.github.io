@@ -15,14 +15,26 @@ export default defineConfig({
 
     nav: [
       {
+        text: 'News',
+        items: []
+      },
+      {
+        text: 'Guides',
+        items: []
+      },
+      {
+        text: 'Projects',
+        items: []
+      },
+      {
         text: 'Changelogs',
         items: [
           { text: 'v0.0.1', link: 'https://github.com/CodeDispatch/codedispatch.github.io' }
         ]
       },
       {
-        text: 'GitHub',
-        link: 'https://github.com/codedispatch/codedispatch.github.io'
+        text: 'About',
+        link: '/about'
       }
     ],
 
