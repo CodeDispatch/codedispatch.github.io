@@ -1,5 +1,7 @@
 ---
-layout: home
+next: false
+prev: false
+sidebar: false
 ---
 
 # About us
