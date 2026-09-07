@@ -4,11 +4,11 @@ layout: home
 # Hero section
 hero:
   name: CodeDispatch
-  text: Developer Newspaper from Developers, for Developer
+  text: The Developer Newspaper
   image:
     src: /logo.PNG
     alt: CodeDispatch logo
-  tagline: Don't miss anything inside the Developer World!
+  tagline: Made from Developers, for Developers. Don't miss anything inside the Developer World!
   actions:
     - theme: brand
       text: Latest News
