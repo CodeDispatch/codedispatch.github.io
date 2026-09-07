@@ -1,28 +1,67 @@
 ---
 layout: home
 
+# Hero section
 hero:
-  name: CoffeeDevs
-  text: docs
-  tagline: Developer documentation for CoffeeDevs
+  name: CodeDispatch
+  text: Developer Newspaper from Developers, for Developer
+  image:
+    src: /logo-big.svg
+    alt: CodeDispatch logo
+  tagline: Don't miss anything inside the Developer World!
   actions:
     - theme: brand
       text: Get Started
-      link: /getting-started
+      link: /guide
     - theme: alt
-      text: Modrinth
-      link: https://modrinth.com/organization/coffeedevs
-    - theme: alt
-      text: GitHub
-      link: https://github.com/coffeedevsmc/coffeedevsmc.github.io
+      text: View on GitHub
+      link: https://github.com/Evavic44/adocs
 
+# Features section
 features:
-  - title: No Foliage
-    details: Boost your FPS be removing the nasty grass with a simple texturepack!
+  - icon: ⚡️
+    title: Adocs, The DX that can't be beat
+    details: Lorem ipsum...
+  - icon: 🎉
+    title: Power of Vue meets Markdown
+    details: Lorem ipsum...
+  - icon: 🔥
+    title: Simple and minimal, always
+    details: Lorem ipsum...
+  - icon: 🎀
+    title: Stylish and cool
+    details: Lorem ipsum...
 
-  - title: Fallback
-    details: Another Library Mod with shared code for Intense's and CoffeeDevs' Datapacks.
-
-  - title: Cratty
-    details: An Icon Library for Minecraft to use Icons in your Mods, Datapacks, Texturepacks and so on.
+# Meta property
+head:
+  - - meta
+    - property: og:type
+      content: website
+  - - meta
+    - property: og:title
+      content: Adocs
+  - - meta
+    - property: og:image
+      content: https://user-images.githubusercontent.com/62628408/200117602-4b274d14-b1b2-4f61-8dcd-9f9482c677a0.png
+  - - meta
+    - property: og:url
+      content: https://vitejs.dev/blog/announcing-vite3
+  - - meta
+    - name: title
+      content: Adocs
+  - - meta
+    - name: twitter:card
+      content: https://user-images.githubusercontent.com/62628408/200117602-4b274d14-b1b2-4f61-8dcd-9f9482c677a0.png
+  - - link
+    - rel: icon
+      type: image/svg
+      href: logo.svg
 ---
+
+<!-- Custom home layout -->
+<div class="follow">
+  <h1>🏀</h1>
+  <h1>Custom Layout</h1>
+  <p>This section was added using plain HTML and CSS.</p>
+  <a href="https://github.com/Evavic44/adocs/blob/main/docs/index.md#custom-layout" target="_blank" class="btn">Source Code</a>
+</div>
