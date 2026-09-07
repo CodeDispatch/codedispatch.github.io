@@ -6,16 +6,16 @@ hero:
   name: CodeDispatch
   text: Developer Newspaper from Developers, for Developer
   image:
-    src: /logo-big.svg
+    src: /logo.PNG
     alt: CodeDispatch logo
   tagline: Don't miss anything inside the Developer World!
   actions:
     - theme: brand
-      text: Get Started
+      text: Latest News
       link: /guide
     - theme: alt
       text: View on GitHub
-      link: https://github.com/Evavic44/adocs
+      link: https://github.com/CodeDispatch/codedispatch.github.io
 
 # Features section
 features:
