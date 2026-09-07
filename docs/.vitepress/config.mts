@@ -3,34 +3,26 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   lang: 'en-US',
 
-  title: 'CoffeeDevs Docs',
-  description: 'CoffeeDevs Documentation for all of our Projects',
+  title: 'CodeDispatch',
+  description: 'Software News for greedy Developers',
 
   base: '/',
 
   cleanUrls: true,
 
   themeConfig: {
-    logo: '/CoffeeDevs_final.png',
+    logo: '/logo.png',
 
     nav: [
       {
-        text: 'Modrinth',
-        link: 'https://modrinth.com/organization/coffeedevs'
-      },
-      {
         text: 'GitHub',
-        link: 'https://github.com/coffeedevsmc'
-      },
-      {
-        text: 'Discord',
-        link: 'https://discord.gg/JNEYvDfQW'
+        link: 'https://github.com/codedispatch/codedispatch.github.io'
       }
     ],
 
     sidebar: [
       {
-        text: 'CoffeDevs docs',
+        text: 'CodeDispatch',
         items: [
           {
             text: 'Home',
@@ -47,15 +39,7 @@ export default defineConfig({
     socialLinks: [
       {
         icon: 'github',
-        link: 'https://github.com/coffeedevsmc'
-      },
-      {
-        icon: 'modrinth',
-        link: 'https://modrinth.com/organization/coffeedevs'
-      },
-      {
-        icon: 'discord',
-        link: 'https://discord.gg/JNEYvDfQW'
+        link: 'https://github.com/codedispatch'
       }
     ],
 
@@ -64,13 +48,13 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/coffeedevsmc/coffeedevsmc.github.io/edit/main/docs/:path',
+      pattern: 'https://github.com/codedispatch/codedispatch.github.io/edit/main/docs/:path',
       text: 'Edit this page'
     },
 
     footer: {
-      message: 'Made with VitePress by Intensed',
-      copyright: 'Copyright © 2026 CoffeeDevs'
+      message: 'CodeDispatch is open-source.',
+      copyright: 'Copyright © 2026 CodeDispatch'
     }
   }
 })
