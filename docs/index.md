@@ -60,8 +60,8 @@ head:
 
 <!-- Custom home layout -->
 <div class="follow">
-  <h1>🏀</h1>
-  <h1>Custom Layout</h1>
-  <p>This section was added using plain HTML and CSS.</p>
-  <a href="https://github.com/Evavic44/adocs/blob/main/docs/index.md#custom-layout" target="_blank" class="btn">Source Code</a>
+  <h1>🔔</h1>
+  <h1>Don't miss anything.</h1>
+  <p>Star and Watch our GitHub Repository, so you'll get notified if something happens.</p>
+  <a href="https://github.com/CodeDispatch/codedispatch.github.io" target="_blank" class="btn">Subscribe!</a>
 </div>
