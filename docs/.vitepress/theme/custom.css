@@ -38,14 +38,15 @@
   border-radius: 10px;
 }
 
-.custom-layout h1 {
+.follow h1 {
   font-size: 2.2rem;
   font-weight: 600;
 }
 
-.custom-layout .btn {
+.follow .btn {
   background-color: var(--vp-button-brand-bg);
   color: var(--vp-button-brand-text);
   border-radius: 20px;
   padding: 0.5rem 1.4rem;
+  text-decoration: none;
 }
