@@ -1,5 +1,6 @@
 ---
 layout: home
+sidebar: true
 
 # Hero section
 hero:
