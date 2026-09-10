@@ -69,3 +69,5 @@ The iPhone Duo is Apple's new foldable iPhone. Apple has equipped the iPhone wit
 Most impressive, however, is the software. While based on iOS, it was developed specifically for this device. The Dock is now located on the right side, and the top bar is more compact. Some gestures, for example in the Control Center, have also been slightly modified. The smooth transition when opening and closing the device is elegant and gives it a more transparent look. Apple also demonstrated that the iPhone behaves differently depending on the rotation and position of the two screens. When closed, the outer screen is used. When fully opened, it resembles a small iPad mini. When partially opened and used as a stand, it enters standby mode, even if it's not charging. If an alarm sounds in this mode, the inner OLED screen also glows a soft orange to create a warmer ambiance.
 
 In summary, Apple has introduced one of the biggest innovations in the history of the iPhone.
+
+<ShareButtons />
