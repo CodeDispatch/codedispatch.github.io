@@ -17,19 +17,24 @@ On September 9, 2026, Apple unveiled its brand-new iPhone. Here's everything you
   }"
   date="2026-09-10"
   updated="2026-09-10"
-  :read-time="7"
-  :categories="[ 'Programming', 'Web Development' ]"
-  :tags="[ 'JavaScript', 'GitHub', 'Open Source' ]"
+  :read-time="4"
+  :categories="[ 'Technology' ]"
+  :tags="[ 'Apple', 'iPhone', 'Products' ]"
   :sources="[
     {
-      title: 'GitHub Documentation',
-      type: 'Documentation',
-      url: 'https://docs.github.com'
+      title: 'Compare iPhones',
+      type: 'Apple',
+      url: 'https://www.apple.com/iphone/compare/'
     },
     {
-      title: 'GitHub Blog',
-      type: 'News',
-      url: 'https://github.blog'
+      title: 'iPhone Duo',
+      type: 'Apple',
+      url: 'https://www.apple.com/iphone-duo/'
+    },
+    {
+      title: 'Apple Event 2026',
+      type: 'Apple',
+      url: 'https://events-delivery.apple.com/7297ElpSMNn2LZPPl9vkFV7w9WXbjB5s/m3u8/vod_main_JeyvV5ESJWYBatM.m3u8'
     }
   ]"
   :changes="[
@@ -38,8 +43,8 @@ On September 9, 2026, Apple unveiled its brand-new iPhone. Here's everything you
       text: 'Article published'
     },
     {
-      date: '2026-09-11',
-      text: 'Added additional sources'
+      date: '2026-09-10',
+      text: 'Updated sources, added Article Meta and edits'
     }
   ]"
 />
@@ -64,13 +69,3 @@ The iPhone Duo is Apple's new foldable iPhone. Apple has equipped the iPhone wit
 Most impressive, however, is the software. While based on iOS, it was developed specifically for this device. The Dock is now located on the right side, and the top bar is more compact. Some gestures, for example in the Control Center, have also been slightly modified. The smooth transition when opening and closing the device is elegant and gives it a more transparent look. Apple also demonstrated that the iPhone behaves differently depending on the rotation and position of the two screens. When closed, the outer screen is used. When fully opened, it resembles a small iPad mini. When partially opened and used as a stand, it enters standby mode, even if it's not charging. If an alarm sounds in this mode, the inner OLED screen also glows a soft orange to create a warmer ambiance.
 
 In summary, Apple has introduced one of the biggest innovations in the history of the iPhone.
-
-> Sources:
-> - https://www.apple.com/iphone/compare/
-> - https://www.apple.com/iphone-duo/
-> - https://events-delivery.apple.com/7297ElpSMNn2LZPPl9vkFV7w9WXbjB5s/m3u8/vod_main_JeyvV5ESJWYBatM.m3u8
-
-::: tip Changelog
-Sep 10 26 - 10:28 PM
-- Added Sources
-:::
