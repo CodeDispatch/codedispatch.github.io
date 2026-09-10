@@ -16,7 +16,9 @@ export default defineConfig({
     nav: [
       {
         text: 'News',
-        items: []
+        items: [
+          { text: 'Apple unveils iPhone Duo', link: '/2026/apple-unveils-iphone-duo' }
+        ]
       },
       {
         text: 'Guides',
@@ -24,7 +26,9 @@ export default defineConfig({
       },
       {
         text: 'Categories',
-        items: []
+        items: [
+          { text: 'Technology' }
+        ]
       },
       {
         text: 'Changelogs',
@@ -47,8 +51,24 @@ export default defineConfig({
             link: '/'
           },
           {
-            text: 'Projects',
-            link: '/projects'
+            text: 'About',
+            link: '/about'
+          }
+        ]
+      },
+      {
+        text: 'Trending Articles',
+        items: [
+          {
+            text: 'Apple unveils iPhone Duo', link: '/2026/apple-unveils-iphone-duo'
+          }
+        ]
+      },
+      {
+        text: 'Latest Articles',
+        items: [
+          {
+            text: 'Apple unveils iPhone Duo', link: '/2026/apple-unveils-iphone-duo'
           }
         ]
       }
@@ -67,7 +87,7 @@ export default defineConfig({
 
     editLink: {
       pattern: 'https://github.com/codedispatch/codedispatch.github.io/edit/main/docs/:path',
-      text: 'Edit this page'
+      text: 'Edit this article'
     },
 
     footer: {
