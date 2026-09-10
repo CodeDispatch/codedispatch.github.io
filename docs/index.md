@@ -21,17 +21,17 @@ hero:
 # Features section
 features:
   - icon: ⚡️
-    title: Adocs, The DX that can't be beat
-    details: Lorem ipsum...
-  - icon: 🎉
-    title: Power of Vue meets Markdown
-    details: Lorem ipsum...
-  - icon: 🔥
-    title: Simple and minimal, always
-    details: Lorem ipsum...
-  - icon: 🎀
-    title: Stylish and cool
-    details: Lorem ipsum...
+    title: Fast and ready
+    details: We've got the articles before the things happen
+  - icon: 🔒
+    title: Secure
+    details: We do not safe personal data or use any accounting methods
+  - icon: 🧠
+    title: By humans, for humans
+    details: We are here to provide human-made articles. We think that making mistakes is more important that delivering 100% accurate AI articles.
+  - icon: 🌐
+    title: Trustworthy
+    details: We are trying to use as many trustworthy sources as we can, so you can use our articles too.
 
 # Meta property
 head:
@@ -40,23 +40,23 @@ head:
       content: website
   - - meta
     - property: og:title
-      content: Adocs
+      content: CodeDispatch
   - - meta
     - property: og:image
-      content: https://user-images.githubusercontent.com/62628408/200117602-4b274d14-b1b2-4f61-8dcd-9f9482c677a0.png
+      content: /logo.PNG
   - - meta
     - property: og:url
-      content: https://vitejs.dev/blog/announcing-vite3
+      content: https://codedispatch.github.io/
   - - meta
     - name: title
-      content: Adocs
+      content: CodeDispatch
   - - meta
     - name: twitter:card
-      content: https://user-images.githubusercontent.com/62628408/200117602-4b274d14-b1b2-4f61-8dcd-9f9482c677a0.png
+      content: /logo.PNG
   - - link
     - rel: icon
-      type: image/svg
-      href: logo.svg
+      type: image/png
+      href: /logo.PNG
 ---
 
 <!-- Custom home layout -->
