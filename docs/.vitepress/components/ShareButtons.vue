@@ -90,6 +90,8 @@ function shareEmail() {
 </script>
 
 <template>
+  <hr>
+  <p style="font-weight: bold;">Share this Article</p>
   <div class="share-buttons" aria-label="Share article">
 
     <!-- Native share sheet -->
