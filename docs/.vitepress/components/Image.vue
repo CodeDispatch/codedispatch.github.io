@@ -37,7 +37,7 @@ defineProps({
       </div>
 
       <div v-if="source" class="source">
-        Quelle:
+        Source:
         <a
           v-if="sourceUrl"
           :href="sourceUrl"
