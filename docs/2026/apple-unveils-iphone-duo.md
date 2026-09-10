@@ -4,9 +4,47 @@ authors: intensed-dev
 date: 10-09-2026
 ---
 
+
+
 # Apple unveils the new iPhone Duo – here's everything you need to know
 
 On September 9, 2026, Apple unveiled its brand-new iPhone. Here's everything you need to know.
+
+<ArticleMeta
+  :author="{
+    name: 'Intense',
+    avatar: '/authors/intense.png',
+    url: '/authors/intense'
+  }"
+  date="2026-09-10"
+  updated="2026-09-10"
+  :read-time="7"
+  :categories="[ 'Programming', 'Web Development' ]"
+  :tags="[ 'JavaScript', 'GitHub', 'Open Source' ]"
+  :sources="[
+    {
+      title: 'GitHub Documentation',
+      type: 'Documentation',
+      url: 'https://docs.github.com'
+    },
+    {
+      title: 'GitHub Blog',
+      type: 'News',
+      url: 'https://github.blog'
+    }
+  ]"
+  :changes="[
+    {
+      date: '2026-09-10',
+      text: 'Article published'
+    },
+    {
+      date: '2026-09-11',
+      text: 'Added additional sources'
+    }
+  ]"
+/>
+
 
 <Ad></Ad>
 
