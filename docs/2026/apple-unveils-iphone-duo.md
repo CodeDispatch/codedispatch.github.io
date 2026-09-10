@@ -62,7 +62,11 @@ Every year in September, Apple presents new products and product lines at its "A
 
 This isn't news: Tim Cook has stepped down as CEO. While he remains part of the Apple team, John Ternus has been Apple's new CEO since September 1, 2026. 
 
-![John Ternus in 2026 | Source: Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/d/dd/John_Ternus_at_the_Apple_50th_Anniversary_Kickoff_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+<Image src="https://upload.wikimedia.org/wikipedia/commons/d/dd/John_Ternus_at_the_Apple_50th_Anniversary_Kickoff_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+  alt="John Ternus in 2026"
+  caption="John Ternus in 2026"
+  source="Wikimedia Commons"
+/>
 
 Previously, John Ternus served as Senior Vice President (SVP) on Apple's hardware team. He developed and planned hardware, tested it, and created prototypes. And he's been doing this for a long time – his experience at Apple spans over 25 years. Now, at the age of 54, Tim Cook appointed him the new CEO.
 
@@ -72,7 +76,13 @@ The event was streamed live on Apple's website, in the Apple TV app, and on YouT
 
 The iPhone Duo is Apple's new foldable iPhone. Apple describes it as "posable" and "foldable." The iPhone features three cameras, including a 48-megapixel camera, which we've seen on other iPhones. It comes with two batteries but no SIM card slot: only an eSIM is supported. Apple removed the LiDAR scanner to hide the camera beneath the larger screen. Therefore, this iPhone doesn't support Face ID, but rather Touch ID, which is integrated into the power button. The volume controls are located on the top.
 
-![iPhone Duo | Source: Apple Website](https://www.apple.com/v/iphone-duo/a/images/overview/media-hero/hero_endframe__gdt3l3spaqie_small_2x.jpg)
+<Image
+  src="https://www.apple.com/v/iphone-duo/a/images/overview/media-hero/hero_endframe__gdt3l3spaqie_small_2x.jpg"
+  alt="iPhone Duo"
+  caption="That's the iPhone Duo"
+  source="Apple"
+  sourceUrl="https://apple.com/iphone-duo"
+/>
 
 The iPhone Duo is Apple's new foldable iPhone. Apple has equipped the iPhone with two screens: a 5.4-inch screen, the so-called "small screen," and a larger 7.6-inch screen. Both screens have a 1:1.4 aspect ratio, ideal for transitions and perfectly suited to the A4 paper size. Furthermore, it uses nanotexture glass, previously only seen on the iPad and Studio Displays. This not only looks elegant but also conceals the crease.
 
