@@ -23,7 +23,7 @@ export default defineConfig({
         items: []
       },
       {
-        text: 'Projects',
+        text: 'Categories',
         items: []
       },
       {
