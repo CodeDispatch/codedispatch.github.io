@@ -5,7 +5,6 @@ date: 10-09-2026
 ---
 
 
-
 # Apple unveils the new iPhone Duo – here's everything you need to know
 
 On September 9, 2026, Apple unveiled its brand-new iPhone. Here's everything you need to know.
@@ -13,8 +12,8 @@ On September 9, 2026, Apple unveiled its brand-new iPhone. Here's everything you
 <ArticleMeta
   :author="{
     name: 'Intense',
-    avatar: '/authors/intense.png',
-    url: '/authors/intense'
+    avatar: '/authors/intense.JPG',
+    url: ''
   }"
   date="2026-09-10"
   updated="2026-09-10"
