@@ -1,7 +1,7 @@
 ---
 next: false
 prev: false
-sidebar: false
+sidebar: true
 ---
 
 # About us
