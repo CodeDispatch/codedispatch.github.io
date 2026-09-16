@@ -14,6 +14,10 @@ On September 9, 2026, Apple unveiled its brand-new iPhone. Here's everything you
     name: 'Intense',
     avatar: '/authors/intense.JPG',
     url: ''
+  },{
+    name: 'CodeDispatch',
+    avatar: '/authors/codedispatch.png',
+    url: ''
   }"
   date="2026-09-10"
   updated="2026-09-10"
