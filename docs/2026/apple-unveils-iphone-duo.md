@@ -1,6 +1,6 @@
 ---
 title: Apple unveils the new iPhone Duo - here's everything you need to know
-authors: intensed-dev
+authors: codedispatch, intensed-dev
 date: 10-09-2026
 ---
 
